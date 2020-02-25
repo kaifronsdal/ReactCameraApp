@@ -2,24 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78f7677b-5bd2-4464-b208-d6ee91dbb80a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cs2/.expo-shared/assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs2/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs2/app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs2/assets/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs2/assets/splash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs2/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs2/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs2/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs2/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toadscan/.expo/packager-info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toadscan/.expo/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toadscan/metro.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toadscan/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/toadscan/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toadscan/Camera.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toadscan/GalleryScreen.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toadscan/Photo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toadscan/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/toadscan/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toadscan/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toadscan/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/toadscan/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toadscan/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/toadscan/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/cs2" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WX9tuuIrEirVZUlAxw9b3GZYfT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -74,17 +85,48 @@
       <workItem from="1579886750337" duration="3042000" />
       <workItem from="1580234506668" duration="370000" />
       <workItem from="1580749899013" duration="4315000" />
-      <workItem from="1581096146279" duration="2615000" />
+      <workItem from="1581096146279" duration="4500000" />
+      <workItem from="1581699856840" duration="3898000" />
+      <workItem from="1582650266104" duration="2018000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/toadscan/node_modules/@tensorflow/tfjs-converter/dist/src/data/compiled_api.js" />
+        <option value="$PROJECT_DIR$/toadscan/node_modules/@tensorflow/tfjs-converter/dist/src/data/compiled_api.d.ts" />
+        <option value="$PROJECT_DIR$/toadscan/node_modules/@tensorflow/tfjs-converter/dist/src/data/compiled_api.js.map" />
+      </list>
+    </option>
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.gradle" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="283" y="32" key="#Notifications" timestamp="1581704484015">
+      <screen x="0" y="23" width="1366" height="688" />
+    </state>
+    <state x="283" y="32" key="#Notifications/0.23.1366.688@0.23.1366.688" timestamp="1581704484015" />
+    <state width="1345" height="168" key="GridCell.Tab.0.bottom" timestamp="1581701761811">
+      <screen x="0" y="23" width="1366" height="688" />
+    </state>
+    <state width="1345" height="168" key="GridCell.Tab.0.bottom/0.23.1366.688@0.23.1366.688" timestamp="1581701761811" />
+    <state width="1345" height="168" key="GridCell.Tab.0.center" timestamp="1581701761809">
+      <screen x="0" y="23" width="1366" height="688" />
+    </state>
+    <state width="1345" height="168" key="GridCell.Tab.0.center/0.23.1366.688@0.23.1366.688" timestamp="1581701761809" />
+    <state width="1345" height="168" key="GridCell.Tab.0.left" timestamp="1581701761808">
+      <screen x="0" y="23" width="1366" height="688" />
+    </state>
+    <state width="1345" height="168" key="GridCell.Tab.0.left/0.23.1366.688@0.23.1366.688" timestamp="1581701761808" />
+    <state width="1345" height="168" key="GridCell.Tab.0.right" timestamp="1581701761810">
+      <screen x="0" y="23" width="1366" height="688" />
+    </state>
+    <state width="1345" height="168" key="GridCell.Tab.0.right/0.23.1366.688@0.23.1366.688" timestamp="1581701761810" />
   </component>
 </project>

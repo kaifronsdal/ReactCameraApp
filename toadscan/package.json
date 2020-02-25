@@ -8,23 +8,22 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "@expo/vector-icons": "latest",
-    "expo": "^35.0.0",
-    "expo-barcode-scanner": "~7.0.0",
-    "expo-camera": "~7.0.0",
-    "expo-constants": "~7.0.0",
-    "expo-face-detector": "~7.0.0",
-    "expo-file-system": "~7.0.0",
-    "expo-media-library": "~7.0.0",
-    "expo-permissions": "~7.0.0",
-    "react": "16.8.3",
-    "react-dom": "16.8.3",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-35.0.0.tar.gz",
-    "react-native-is-iphonex": "^1.0.1",
-    "react-native-web": "^0.11.7"
+    "@react-native-community/async-storage": "^1.8.0",
+    "@tensorflow-models/mobilenet": "^2.0.4",
+    "@tensorflow/tfjs": "^1.5.2",
+    "@tensorflow/tfjs-react-native": "^0.2.3",
+    "expo": "~36.0.0",
+    "expo-cli": "^3.13.1",
+    "expo-gl": "^8.0.0",
+    "jpeg-js": "^0.3.7",
+    "react": "~16.9.0",
+    "react-dom": "~16.9.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
+    "react-native-web": "~0.11.7"
   },
   "devDependencies": {
-    "babel-preset-expo": "^7.1.0"
+    "@babel/core": "^7.0.0",
+    "babel-preset-expo": "~8.0.0"
   },
   "private": true
 }
